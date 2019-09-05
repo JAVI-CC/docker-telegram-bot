@@ -20,4 +20,4 @@ Bot de Telegram para gestionar su servidor de Docker.
 
 <br>
 
-<p align="center"><imnombre de la imagen
+<p align="center"><img src="captura.png"></p>
