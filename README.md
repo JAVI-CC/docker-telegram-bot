@@ -3,17 +3,17 @@ Script en python que permite gestionar su servidor de Docker a través de un bot
 
 Bot de Telegram para gestionar su servidor de Docker.
 
-<li>ayuda: Comandos disponibles</li>
-<li>start: Arranca el bot</li>
-<li>images: Mostrar imagenes</li>
-<li>image_remove: Elimina la imagen que le haya especificado</li>
-<li>containers_active: Muestra contenedores activos</li>
-<li>containers_inactive: Muestra contenedores inactivos</li>
-<li>container_create: Crea el contenedor con la imagen que le haya especificado</li>
-<li>container_start: Activa el contenedor que le haya especificado</li>
-<li>container_stop: Inactiva el contenedor que le haya especificado</li>
-<li>container_remove: Elimina el contenedor que le haya especificado</li>
-<li>search: Busca las imagenes que le haya especificado</li>
-<li>pull: Descargar la imagen que le haya especificado</li>
-<li>logs: Muestra los logs del contenedor que le haya especificado</li>
-<li>version: Muestra la version de Docker</li>
+<li><strong>ayuda</strong>: Comandos disponibles</li>
+<li><strong>start</strong>: Arranca el bot</li>
+<li><strong>images</strong>: Mostrar imagenes</li>
+<li><strong>image_remove</strong>: Elimina la imagen que le haya especificado</li>
+<li><strong>containers_active</strong>: Muestra contenedores activos</li>
+<li><strong>containers_inactive</strong>: Muestra contenedores inactivos</li>
+<li><strong>container_create</strong>: Crea el contenedor con la imagen que le haya especificado</li>
+<li><strong>container_start</strong>: Activa el contenedor que le haya especificado</li>
+<li><strong>container_stop</strong>: Inactiva el contenedor que le haya especificado</li>
+<li><strong>container_remove</strong>: Elimina el contenedor que le haya especificado</li>
+<li><strong>search</strong>: Busca las imagenes que le haya especificado</li>
+<li><strong>pull</strong>: Descargar la imagen que le haya especificado</li>
+<li><strong>logs</strong>: Muestra los logs del contenedor que le haya especificado</li>
+<li><strong>version</strong>: Muestra la version de Docker</li>
