@@ -17,3 +17,5 @@ Bot de Telegram para gestionar su servidor de Docker.
 <li><strong>pull</strong>: Descargar la imagen que le haya especificado</li>
 <li><strong>logs</strong>: Muestra los logs del contenedor que le haya especificado</li>
 <li><strong>version</strong>: Muestra la version de Docker</li>
+
+<p align="center"><img src="Captura.png"></p>
